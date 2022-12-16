@@ -1,0 +1,11 @@
+- Why we cannot use React hooks in conditional statements? How React hooks work internally?
+  - [The Real Reasoning Behind React’s Hook Rules](https://medium.com/@emamiarian8/the-real-reasoning-behind-reacts-hook-rules-fe65edee1385)
+- [Difference between Next.js ISR, SSR, CSR?](./answers/SSR_ISR_CSR.md)
+- [Difference between Server Components and SSR?](./answers/RFC_vs_SSR.md)
+- [Difference between React.memo, useMemo and useCallback?](./answers/React_memo_vs_useMemo.md)
+- [ClientSide routing and ServerSide routing.](./answers/ClientSide_routing_vs_ServerSide_routing.md)
+- [What is single source of truth principle? Why it is important in React? Why we shouldn't store multiple copies of same data or data that we can derive from another data.](./answers/Single_source_of_truth.md)
+- [Why we need windowing / list virtualization in react? Show how windowing works in DOM.](./answers/Windowing_in_react.md)
+- [When to use Jotai (Recoil)? When to use Apollo Client (Relay)?](./answers/Server_state_vs_client_state.md)
+- [Why we use caching? Give some examples of caching in the web.](./answers/Caching_in_web.md)
+- [How does CSS-in-JS work? Give us a story of what happens in code.](./answers/CSS_in_JS.md)
